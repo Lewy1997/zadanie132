@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Lider: Patryk Lewandowski\n");
+    printf("Lider: Patryk Lewandowski\nPatryk Brzychcy");
     return 0;
 }
